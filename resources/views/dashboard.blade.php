@@ -67,7 +67,7 @@
 
     <!-- Navbar -->
     <div class="navbar">
-        <h2>My Dashboard</h2>
+        <h2>My DashBoard</h2>
 
         <a class="logout-btn" href="{{ url('/login') }}">Logout</a>
     </div>
