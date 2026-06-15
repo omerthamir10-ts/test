@@ -74,7 +74,7 @@
 
 <body>
     <div class="container">
-        <h2>Register</h2>
+        <h2>Register here</h2>
 
         <form>
             <input type="text" placeholder="Full Name" required>
