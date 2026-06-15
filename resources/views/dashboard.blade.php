@@ -98,9 +98,10 @@
 
         <button type="submit" class="login-btn">Login</button>
 
-        <div class="footer-text">
-            Don't have an account? <a href="#">Sign Up</a>
-        </div>
+       <div class="footer-text">
+    Don't have an account?
+    <a href="/register">Sign Up</a>
+</div>
     </form>
 </div>
 
